@@ -1,1 +1,1 @@
-script that changes the working directory to the user’s home directory
+Display current directory contents.Long format with user and group IDs displayed numerically And hidden files (starting with .)
