@@ -1,0 +1,2 @@
+#!/bin/bash
+vi shool.mgc 0 string SHOOL School data !:mime School :wq file -C -m school.mgc
