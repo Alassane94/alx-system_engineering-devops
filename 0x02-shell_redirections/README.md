@@ -1,1 +1,1 @@
-splay the first 10 lines of /etc/passwd
+ script that reverse its input
